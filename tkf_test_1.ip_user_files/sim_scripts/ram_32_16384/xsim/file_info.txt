@@ -1,0 +1,2 @@
+ram_32_16384.v,verilog,xil_defaultlib,../../../../tkf_test_1.srcs/sources_1/ip/ram_32_16384/sim/ram_32_16384.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v

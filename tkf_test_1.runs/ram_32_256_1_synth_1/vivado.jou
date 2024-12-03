@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Mon Dec  2 16:58:05 2024
+# Process ID: 18380
+# Current directory: C:/Users/DELL/Desktop/TKF_FIRMWARE/FIRMWARE source/TKF_add_sp3_11.14/tkf_test_1/tkf_test_1.runs/ram_32_256_1_synth_1
+# Command line: vivado.exe -log ram_32_256_1.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source ram_32_256_1.tcl
+# Log file: C:/Users/DELL/Desktop/TKF_FIRMWARE/FIRMWARE source/TKF_add_sp3_11.14/tkf_test_1/tkf_test_1.runs/ram_32_256_1_synth_1/ram_32_256_1.vds
+# Journal file: C:/Users/DELL/Desktop/TKF_FIRMWARE/FIRMWARE source/TKF_add_sp3_11.14/tkf_test_1/tkf_test_1.runs/ram_32_256_1_synth_1\vivado.jou
+#-----------------------------------------------------------
+source ram_32_256_1.tcl -notrace
